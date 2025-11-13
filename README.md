@@ -43,7 +43,7 @@ The I2C LTC4311 Bus Extender Module is designed to enhance the I2C communication
 | Feature                      | Description                        |
 |------------------------------|------------------------------------|
 | I2C Bus Extender             | Utilizes LTC4311 for signal boosting|
-| Operating Voltage            | 3.3V to 5V                         |
+| Operating Voltage            | 1.6V to 5V                         |
 | Communication Speed         | Up to 400 kHz                      |
 | Connector Type               | Standard 4-pin I2C header          |
 | Dimensions                   | 25mm x 20mm                        |

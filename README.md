@@ -50,6 +50,9 @@ The I2C LTC4311 Bus Extender Module is designed to enhance the I2C communication
 | Mounting                     | Through-hole or surface mount      |
 | Compatibility                | Compatible with most microcontrollers and I2C devices |
 
+
+</div>
+
 ## Applications
 - Extending I2C communication range
 - Improving signal integrity in noisy environments

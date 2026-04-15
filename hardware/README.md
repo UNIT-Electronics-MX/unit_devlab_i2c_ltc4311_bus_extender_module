@@ -28,8 +28,8 @@
 ## 🔌 Pinout
 
 <div align="center">
-    <a href="#"><img src="resources/unit_pinout_v_1_0_0_ue0107_i2c_extender.png" width="500px"><br/>Pinout</a>
-    <br/>
+    <a href="#"><img src="resources/img/jpg/unit_pinout_v_1_0_0_ue0107_i2c_ltc4311_en.jpg" width="500px"><br/>Pinout</a>
+    <br/> 
     <br/>
     <br/>
 </div>    
